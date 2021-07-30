@@ -1,0 +1,2 @@
+C:\Users\mayan\source\repos\AdoNetDal\obj\Debug\AdoNetDal.csproj.AssemblyReference.cache
+C:\Users\mayan\source\repos\AdoNetDal\obj\Debug\AdoNetDal.csproj.CoreCompileInputs.cache

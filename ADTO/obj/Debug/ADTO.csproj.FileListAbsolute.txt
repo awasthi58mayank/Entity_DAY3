@@ -1,0 +1,6 @@
+C:\Users\mayan\source\repos\ADTO\bin\Debug\ADTO.dll
+C:\Users\mayan\source\repos\ADTO\bin\Debug\ADTO.pdb
+C:\Users\mayan\source\repos\ADTO\obj\Debug\ADTO.csproj.AssemblyReference.cache
+C:\Users\mayan\source\repos\ADTO\obj\Debug\ADTO.csproj.CoreCompileInputs.cache
+C:\Users\mayan\source\repos\ADTO\obj\Debug\ADTO.dll
+C:\Users\mayan\source\repos\ADTO\obj\Debug\ADTO.pdb

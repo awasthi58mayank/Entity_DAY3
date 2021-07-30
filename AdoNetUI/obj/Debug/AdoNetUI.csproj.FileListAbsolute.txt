@@ -1,0 +1,2 @@
+C:\Users\mayan\source\repos\AdoNetUI\obj\Debug\AdoNetUI.csproj.AssemblyReference.cache
+C:\Users\mayan\source\repos\AdoNetUI\obj\Debug\AdoNetUI.csproj.CoreCompileInputs.cache
